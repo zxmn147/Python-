@@ -16,4 +16,4 @@
 | D3 | Numpy 陣列的初始化 | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day03_Numpy%20%E9%99%A3%E5%88%97%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96_Homework.ipynb)  |
 | D4 | NumPy 陣列的算術運算 | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day04_NumPy%20%E9%99%A3%E5%88%97%E7%9A%84%E7%AE%97%E8%A1%93%E9%81%8B%E7%AE%97_Homework.ipynb)  |
 | D5 | NumPy 陣列的邏輯運算 | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day05_NumPy%20%E9%99%A3%E5%88%97%E7%9A%84%E9%82%8F%E8%BC%AF%E9%81%8B%E7%AE%97_Homework.ipynb)  |
-| D6 | Numpy 中常見的陣列方法與函式 | [連結]()  |
+| D6 | Numpy 中常見的陣列方法與函式 | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day06_Numpy%20%E4%B8%AD%E5%B8%B8%E8%A6%8B%E7%9A%84%E9%99%A3%E5%88%97%E6%96%B9%E6%B3%95%E8%88%87%E5%87%BD%E5%BC%8F_Homework.ipynb)  |
