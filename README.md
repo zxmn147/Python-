@@ -23,4 +23,5 @@
 
 | 天數  | 課程主題 | 作業連結 |
 |----|----|----|
-| D8 | Pandas 物件的定義與屬性  | [連結]()  |
+| D8 | Pandas 物件的定義與屬性  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day08_Pandas%20%E7%89%A9%E4%BB%B6%E7%9A%84%E5%AE%9A%E7%BE%A9%E8%88%87%E5%B1%AC%E6%80%A7_Homework.ipynb)  |
+| D9 | 使用 Pandas DataFrame 的初始化  | [連結]()  |
