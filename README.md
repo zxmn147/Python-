@@ -25,4 +25,5 @@
 |----|----|----|
 | D8 | Pandas 物件的定義與屬性  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day08_Pandas%20%E7%89%A9%E4%BB%B6%E7%9A%84%E5%AE%9A%E7%BE%A9%E8%88%87%E5%B1%AC%E6%80%A7_Homework.ipynb)  |
 | D9 | 使用 Pandas DataFrame 的初始化  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day09_%E4%BD%BF%E7%94%A8%20Pandas%20DataFrame%20%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96_Homework.ipynb)  |
-| D10 | Pandas DataFrame 的資料選取  | [連結]()  |
+| D10 | Pandas DataFrame 的資料選取  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day10_Pandas%20DataFrame%20%E7%9A%84%E8%B3%87%E6%96%99%E9%81%B8%E5%8F%96_Homework.ipynb)  |
+| D11 | Pandas 中的算術運算特性  | [連結]()  |
