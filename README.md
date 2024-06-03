@@ -27,4 +27,5 @@
 | D9 | 使用 Pandas DataFrame 的初始化  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day09_%E4%BD%BF%E7%94%A8%20Pandas%20DataFrame%20%E7%9A%84%E5%88%9D%E5%A7%8B%E5%8C%96_Homework.ipynb)  |
 | D10 | Pandas DataFrame 的資料選取  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day10_Pandas%20DataFrame%20%E7%9A%84%E8%B3%87%E6%96%99%E9%81%B8%E5%8F%96_Homework.ipynb)  |
 | D11 | Pandas 中的算術運算特性  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day11_Pandas%20%E4%B8%AD%E7%9A%84%E7%AE%97%E8%A1%93%E9%81%8B%E7%AE%97%E7%89%B9%E6%80%A7_Homework.ipynb)  |
-| D12 | Pandas 迭代與重複操作  | [連結]()  |
+| D12 | Pandas 迭代與重複操作  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day12_Pandas%20%E8%BF%AD%E4%BB%A3%E8%88%87%E9%87%8D%E8%A4%87%E6%93%8D%E4%BD%9C_Homework.ipynb)  |
+| D13 | Pandas Dataframe 的新增與刪除  | [連結]()  |
