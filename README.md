@@ -30,4 +30,7 @@
 | D12 | Pandas 迭代與重複操作  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day12_Pandas%20%E8%BF%AD%E4%BB%A3%E8%88%87%E9%87%8D%E8%A4%87%E6%93%8D%E4%BD%9C_Homework.ipynb)  |
 | D13 | Pandas Dataframe 的新增與刪除  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day13_Pandas%20Dataframe%20%E7%9A%84%E6%96%B0%E5%A2%9E%E8%88%87%E5%88%AA%E9%99%A4_Homework.ipynb)  |
 | D14 | Pandas 的外部資料存取  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day14_Pandas%20%E7%9A%84%E5%A4%96%E9%83%A8%E8%B3%87%E6%96%99%E5%AD%98%E5%8F%96_Homework.ipynb)  |
-| D15 | 用 Pandas 撰寫樞紐分析表  | [連結]()  |
+| D15 | 用 Pandas 撰寫樞紐分析表  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day15_%E7%94%A8%20Pandas%20%E6%92%B0%E5%AF%AB%E6%A8%9E%E7%B4%90%E5%88%86%E6%9E%90%E8%A1%A8_Homework.ipynb)  |
+| D16 | 用 Pandas 執行聚合運算(Split-Apply-Combine Strategy)  | [連結]()  |
+| D17 | Pandas 時間序列資料處理  | [連結]()  |
+| D18 | Pandas 大型資料處理與效能調校  | [連結]()  |
