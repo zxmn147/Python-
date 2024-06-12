@@ -33,4 +33,16 @@
 | D15 | 用 Pandas 撰寫樞紐分析表  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day15_%E7%94%A8%20Pandas%20%E6%92%B0%E5%AF%AB%E6%A8%9E%E7%B4%90%E5%88%86%E6%9E%90%E8%A1%A8_Homework.ipynb)  |
 | D16 | 用 Pandas 執行聚合運算(Split-Apply-Combine Strategy)  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day16_%E7%94%A8%20Pandas%20%E5%9F%B7%E8%A1%8C%E8%81%9A%E5%90%88%E9%81%8B%E7%AE%97Split-Apply-Combine%20Strategy_Homework.ipynb)  |
 | D17 | Pandas 時間序列資料處理  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day17_Pandas%20%E6%99%82%E9%96%93%E5%BA%8F%E5%88%97%E8%B3%87%E6%96%99%E8%99%95%E7%90%86_Homework.ipynb)  |
-| D18 | Pandas 大型資料處理與效能調校  | [連結]()  |
+| D18 | Pandas 大型資料處理與效能調校  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day18_andas%20%E5%A4%A7%E5%9E%8B%E8%B3%87%E6%96%99%E8%99%95%E7%90%86%E8%88%87%E6%95%88%E8%83%BD%E8%AA%BF%E6%A0%A1_homework.ipynb)  |
+
+### Data Visualization 資料視覺化 (Matplotlib / Seaborn)
+| 天數  | 課程主題 | 作業連結 |
+|----|----|----|
+| D19 | Python 資料視覺化工具與常見統計圖表介紹  | 基礎: [連結]()<br> 進階: [連結]() |
+| D20 | 使用 Matplotlib 繪製各種常用圖表  | [連結]()  |
+| D21 | 使用 Seaborn 進行資料視覺化   | [連結]()  |
+| D22 | 運用實際資料集進行資料視覺化練習   | [連結]()  |
+| D23 | 結合 Pandas 與 Matplotlib 進行進階資料視覺化練習  | [連結]()  |
+| D24 | BOKEH 輕鬆以網頁呈現視覺化圖表  | [連結]()  |
+| D25 | Basemap 進行地理資訊繪圖   | [連結]()  |
+| D26 | 使用 PANDAS 與 BASEMAP 將數據整合於地理資訊圖表   | [連結]()  |
