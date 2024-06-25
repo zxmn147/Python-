@@ -5,7 +5,7 @@
 實作環境:
 > - OS: Windows11
 > - Python: 3.8.0
-> - 所需套件: Numpy 1.24.4
+
 
 ### Numpy 程式開發實作
 
