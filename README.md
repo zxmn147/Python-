@@ -40,7 +40,7 @@
 |----|----|----|
 | D19 | Python 資料視覺化工具與常見統計圖表介紹  | 基礎: [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day19/Basic/Day19_Python%20%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96%E5%B7%A5%E5%85%B7%E8%88%87%E5%B8%B8%E8%A6%8B%E7%B5%B1%E8%A8%88%E5%9C%96%E8%A1%A8%E4%BB%8B%E7%B4%B9_HW.ipynb)<br> 進階: [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day19/Advanced/%E4%BD%9C%E6%A5%AD%E9%A1%8C%E7%9B%AE.ipynb) |
 | D20 | 使用 Matplotlib 繪製各種常用圖表  | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day20_%E4%BD%BF%E7%94%A8%20Matplotlib%20%E7%B9%AA%E8%A3%BD%E5%90%84%E7%A8%AE%E5%B8%B8%E7%94%A8%E5%9C%96%E8%A1%A8_HW.ipynb)  |
-| D21 | 使用 Seaborn 進行資料視覺化   | [連結]()  |
+| D21 | 使用 Seaborn 進行資料視覺化   | [連結](https://github.com/zxmn147/Python_Data_Science_Marathon/blob/main/homeworks/Day21_%E4%BD%BF%E7%94%A8%20Seaborn%20%E9%80%B2%E8%A1%8C%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96_HW.ipynb)  |
 | D22 | 運用實際資料集進行資料視覺化練習   | [連結]()  |
 | D23 | 結合 Pandas 與 Matplotlib 進行進階資料視覺化練習  | [連結]()  |
 | D24 | BOKEH 輕鬆以網頁呈現視覺化圖表  | [連結]()  |
